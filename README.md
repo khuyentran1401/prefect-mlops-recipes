@@ -1,4 +1,4 @@
-# MLOPs Recipe for Prefect
+# MLOps Recipe for Prefect
 
 ## Articles
 

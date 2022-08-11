@@ -1,5 +1,7 @@
 # MLOps Recipe for Prefect
 
+This repository accumulates tutorials/use cases of using [Prefect](https://www.prefect.io/) in a data science project.
+
 ## Articles
 
 | Title        | Article           | Repository  

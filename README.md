@@ -13,13 +13,4 @@ This repository accumulates tutorials/use cases of using [Prefect](https://www.p
 
 ## Videos
 
-| Title        | Video           | Repository  
-| ------------- |:-------------:| :-----:|
-| Eliminate Negative Engineering with Prefect | [🔗](https://youtu.be/tus1rESkyQg) |
-| Flow in Prefect - Supercharge Your Data Pipeline in Python | [🔗](https://youtu.be/R3k2eMkh7QU) | [🔗](https://github.com/khuyentran1401/prefect-course/blob/master/getting_started/02_basic_flow.py)
-| Tasks in Prefect - Add Observability to Your Data Pipeline in Python | [🔗](https://youtu.be/3kqEnEW-w04) | [🔗](https://github.com/khuyentran1401/prefect-course/blob/master/getting_started/03_basic_task.py)
-| Subflows in Prefect: Organize Data Pipelines in Python | [🔗](https://youtu.be/hQ1E8KZK1dQ) | [🔗](https://github.com/khuyentran1401/prefect-course/blob/master/getting_started/04_subflow.py)
-| Observe Data Pipelines through Prefect Orion Server | [🔗](https://youtu.be/4NcA1inVNIg) | 
-| Caching Your Python Functions with Prefect | [🔗](https://youtu.be/wToA8eOOPx8) | [🔗](https://github.com/khuyentran1401/prefect-course/blob/master/getting_started/07_caching.py)
-| Retries in Python: Rerun Your Failed Functions for a Specific Number of Times with Prefect | [🔗](https://youtu.be/Pua1B3pyCrc) | [🔗](https://github.com/khuyentran1401/prefect-course/blob/master/getting_started/06_retries.py)
-| Schedule Your Data Workflow in Python with Prefect 2.0 | [🔗](https://youtu.be/0OSZ3gAC7r8) | [🔗](https://github.com/khuyentran1401/prefect-course/blob/master/getting_started/10_schedule.py)
+View a full playlist on Prefect [here](https://www.youtube.com/playlist?list=PLnK6m_JBRVNrHeLuMMJGtNLmgn3MpXYvq).
